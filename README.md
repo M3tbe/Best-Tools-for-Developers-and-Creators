@@ -1,4 +1,4 @@
-# Best Tools / Ressources for Developers
+# My Best Tools / Ressources for Developers and Creators
 
 Here is a list of the tools & websites I use or I would take a look for any new dev' project or satisfy my creative drive.
 
